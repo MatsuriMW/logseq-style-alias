@@ -1,0 +1,10 @@
+{
+  "id": "logseq-style-alias",
+  "name": "Logseq Style Alias",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.6",
+  "description": "Make [[alias]] links open the page that has the alias, the way Logseq does, instead of creating an empty page.",
+  "author": "马自立",
+  "authorUrl": "https://github.com/MatsuriMW",
+  "isDesktopOnly": false
+}

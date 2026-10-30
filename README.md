@@ -6,6 +6,16 @@ An Obsidian plugin that makes `[[alias]]` links open the page that has the alias
 
 **English** · [简体中文](./README.zh-CN.md)
 
+**Contents**
+
+- [The problem](#the-problem)
+- [What it does](#what-it-does)
+- [Commands](#commands)
+- [Settings](#settings)
+- [Installing](#installing)
+- [Limits](#limits)
+- [Feedback and updates](#feedback-and-updates)
+
 ## The problem
 
 Give a page called `Retrieval-Augmented Generation` the alias `RAG`:

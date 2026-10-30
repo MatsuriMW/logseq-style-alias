@@ -64,3 +64,7 @@ Obsidian 只拿别名做补全提示。你自己打 `[[RAG]]`、没选提示，�
 - 重定向只在 Obsidian 里生效。直接读 Markdown 文件的工具（脚本、静态站导出、别的编辑器）看到的 `[[RAG]]` 仍然是指向名为 `RAG` 的文件。
 - 每台设备（包括手机）都要装，否则那台设备上 `[[别名]]` 还是断链。
 - 实现方式是包一层 `metadataCache.getFirstLinkpathDest`。停用插件时会拆掉；如果别的插件在之后又包了一层，没法拆，这层就原样放行、不再改任何结果。
+
+## 反馈与后续
+
+想追踪后续功能、反馈问题、关注后续进展，欢迎关注我的 Twitter：[@Matsurimywaifu](https://x.com/Matsurimywaifu)。

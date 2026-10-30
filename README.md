@@ -64,3 +64,7 @@ Copy `main.js` and `manifest.json` into `<vault>/.obsidian/plugins/logseq-style-
 - The redirection lives inside Obsidian. Tools that read the Markdown files directly — scripts, static-site exporters, other editors — still see `[[RAG]]` as a link to a file named `RAG`.
 - Install it on every device you use, including mobile, or `[[alias]]` will be unresolved there.
 - It works by wrapping `metadataCache.getFirstLinkpathDest`. The wrapper is removed when the plugin is disabled; if another plugin wrapped the same function afterwards, ours stays in place but passes everything through untouched.
+
+## Feedback and updates
+
+To follow new features, send feedback or keep up with progress, follow me on Twitter: [@Matsurimywaifu](https://x.com/Matsurimywaifu).

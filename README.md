@@ -6,6 +6,8 @@ An Obsidian plugin that makes `[[alias]]` links open the page that has the alias
 
 **English** · [简体中文](./README.zh-CN.md)
 
+![Left: `[[5 Whys]]` typed by hand, shown as a resolved link. Right: the page it opens, Five Whys, whose alias is 5 Whys.](https://raw.githubusercontent.com/MatsuriMW/logseq-style-alias/main/docs/screenshot.png)
+
 **Contents**
 
 - [The problem](#the-problem)

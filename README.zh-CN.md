@@ -6,6 +6,8 @@
 
 [English](./README.md) · **简体中文**
 
+![左：手写的 `[[5 Whys]]`，按已解析的链接显示。右：点开跳到的页面 Five Whys，它的别名是 5 Whys。](https://raw.githubusercontent.com/MatsuriMW/logseq-style-alias/main/docs/screenshot.png)
+
 **目录**
 
 - [问题在哪](#问题在哪)
